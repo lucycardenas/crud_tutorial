@@ -1,3 +1,15 @@
+# Introduction 
+>Hi and welcome to my Create, Read, Update & Delete (**CRUD**) style projet! 
+## To Run ,
+    >*cd backend*
+    >*python main.py*
+    >Open split terminal
+    >*cd frontend*
+    >*npm run dev*
+    >Open http://127.0.0.1:5000/
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
