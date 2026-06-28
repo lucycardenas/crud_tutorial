@@ -6,7 +6,7 @@ Hi and welcome to my Create, Read, Update & Delete (**CRUD**) style projet!
     >Open split terminal
     >*cd frontend*
     >*npm run dev*
-    >Open http://127.0.0.1:5000/
+    >Open on local host
 
 
 
