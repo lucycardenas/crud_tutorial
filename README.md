@@ -9,7 +9,7 @@ Hi and welcome to my Create, Read, Update & Delete (**CRUD**) style projet!
     >Open on local host
 
 
-![Project Preview](images\crud_screenshot_preview.png)
+![Project Preview](images/crud_screenshot_preview.png)
 
 # React + Vite
 
