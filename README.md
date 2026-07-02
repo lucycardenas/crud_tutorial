@@ -9,7 +9,7 @@ Hi and welcome to my Create, Read, Update & Delete (**CRUD**) style projet!
     >Open http://127.0.0.1:5000/
 
 
-
+![Project Preview](C:\Users\Owner\.vscode\crud_tutorial\images\crud_screenshot_preview.png)
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
