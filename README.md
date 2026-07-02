@@ -1,5 +1,5 @@
 # Introduction 
-Hi and welcome to my Create, Read, Update & Delete (**CRUD**) style projet! 
+Hi and welcome to my Create, Read, Update & Delete (**CRUD**) style projet! Completed 7/1/2026
 ## To Run ,
     >*cd backend*
     >*python main.py*
